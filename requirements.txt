@@ -1,0 +1,13 @@
+# AI Planning for Storytelling Project Requirements
+
+# Pyperplan: AI Planner used in this project
+pyperplan==1.0.0
+
+# OpenAI Python client for integration with LLM (if used)
+openai==0.27.0
+
+# Transitions: Lightweight finite state machine implementation (optional for FSM enrichment)
+transitions==0.8.11
+
+# Additional libraries for handling command-line interfaces or data manipulation (optional)
+prompt-toolkit==3.0.38
